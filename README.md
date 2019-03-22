@@ -11,7 +11,7 @@ If you are Linux users, you may use this version.<a href="https://github.com/jac
 <p>After you install, please try to start the local host.</p>
 <p>You may have problem on starting the server. Please run XAMPP in admin mode by right click "run as admin"</p>
 <p>Remember that you need to start the "MySql server" and "Apache"</p>
-<p>Pease makesure that XAMPP can support Python code, you may :</p>
+<p>Please makesure that XAMPP can support Python code, you may :</p>
 <ol>
     <li>Click the Config button on Apache</li><p>Choose "httpd.conf"</p>
     <li>Find "AddHandler cgi-script .cgi .pl .asp"</li><p>Add ".py" after .asp</p>
